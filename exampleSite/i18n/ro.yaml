@@ -1,27 +1,27 @@
 - id: blogTitle
   translation: Dernier message
 - id: readMore
-  translation: Lire la suite
+  translation: Citeste mai multe
 - id: viewAllPost
-  translation: Voir tous les articles
+  translation: Mai multe
 - id: share
-  translation: Partager
+  translation: Share
 - id: aboutAuthor
-  translation: À propos de l'auteur
+  translation: Despre autor
 - id: authorsPosts
-  translation: Articles de l'auteur
+  translation: Articolele autorului
 - id: all
-  translation: All
+  translation: Toate
 - id: about
-  translation: À propos
+  translation: Despre
 - id: services
-  translation: Services
+  translation: Servicii
 - id: portfolio
-  translation: Portfolio
+  translation: Portofoliu
 - id: team
-  translation: Équipe
+  translation: Echipa
 - id: pricing
-  translation: Tarification
+  translation: Pret
 - id: blog
   translation: Blog
 - id: contact
