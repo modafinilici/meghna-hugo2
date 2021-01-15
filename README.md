@@ -80,7 +80,7 @@ If you have questions or need help integrating the product please [contact us](m
 
 <!-- licence -->
 ## License
-Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
+Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
 
 **Code License:** Released under the [MIT](https://github.com/themefisher/meghna-hugo/blob/master/LICENSE) license.
 
@@ -103,6 +103,6 @@ We are available for **Hiring** for your next HUGO project. Drop us a mail at [m
 
 <!-- premium themes -->
 ## Premium Themes
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![](https://gethugothemes.com/wp-content/uploads/edd/2020/09/Reader.jpg)](https://gethugothemes.com/products/reader/) | [![](https://gethugothemes.com/wp-content/uploads/edd/2020/06/bizcraft-hugo.jpg)](https://gethugothemes.com/products/bizcraft-hugo/) |
+| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![](https://gethugothemes.com/wp-content/uploads/edd/2021/09/Reader.jpg)](https://gethugothemes.com/products/reader/) | [![](https://gethugothemes.com/wp-content/uploads/edd/2021/06/bizcraft-hugo.jpg)](https://gethugothemes.com/products/bizcraft-hugo/) |
 |:---:|:---:|:---:|
 | **Premium Theme Bundle (40+)**  | **Reader**  | **Bizcraft**  |

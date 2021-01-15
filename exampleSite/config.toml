@@ -16,11 +16,10 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "about"
 url = "about"
-pre = "#"
 weight = 1
 [[Languages.en.menu.main]]
 name = "services"
-url = "#services"
+url = "services"
 weight = 2
 [[Languages.en.menu.main]]
 name = "portfolio"
@@ -44,7 +43,7 @@ url = "contact"
 weight = 7
 [Languages.ro]
 contentDir = "content/romanian"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
 languageCode = "ro-ro"
 languageName = "Ro"
