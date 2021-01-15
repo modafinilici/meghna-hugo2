@@ -1,5 +1,5 @@
 ---
-title: "John Doe"
+title: "Mihai Hurjui"
 image: ""
 email: "email2@example.org"
 social:
