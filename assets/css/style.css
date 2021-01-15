@@ -8,14 +8,14 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #d5dce3;
-  color: #4e6c87;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 body {
-  background-color: #d5dce3;
+  background-color: #ffffff;
   font-family: "Anaheim", sans-serif;
-  color: #4e6c87;
+  color: ##000000;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color:#4e6c87;
+  color:##000000;
 }
 
 p {
@@ -163,7 +163,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #d5dce3;
+  background-color: #ffffff;
 }
 
 .bg-dark {
@@ -303,11 +303,11 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: #000000;
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #000000;
 }
 
 .title p {
@@ -547,7 +547,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: ##ffffff;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -644,7 +644,7 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #000000;
 }
 
 .call-to-action p {
@@ -2270,7 +2270,7 @@ figcaption {
 }
 
 #select-language {
-  background: #d5dce3;
+  background: #000000;
   color: #ffffff;
   border: 0;
 }
